@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Aynoa-Rayane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá, seja bem-vindo!
+Sou Aynoa-Rayane, estudante de engenaria elétrica de São Paulo, Brasil.
+- 👀 Estou interessada em desenvolver habilidades em tecnologia.
+- 🌱 Atualmente estou aprendendo mais sobre Python e front end.
+- 💞️ Gosto de explorar novas tendências e aprender novas tecnologias, principalmente atrelado a engenharia.
 
-<!---
-Aynoa-Rayane/Aynoa-Rayane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
